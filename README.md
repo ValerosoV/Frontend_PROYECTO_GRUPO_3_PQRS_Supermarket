@@ -1,2 +1,2 @@
-# ValerosoV-Proyecto_Grupo_3_PQRS_Supermarket
+# FrontEnd-Proyecto_Grupo_3_PQRS_Supermarket
 Angel Stiven Pinzon Sánchez,  Juan David Valero Venegas,  Juan Diego Galan Espinosa,  Nicolas Alfonso Forigua
